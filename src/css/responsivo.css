@@ -1,0 +1,38 @@
+@media (max-width: 620px) {
+  .pokemon-slider {
+    padding: 0 15px;
+    gap: 10px;
+  }
+
+  .btn-seta{
+    width: 20px;
+    height: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .lista-carta{
+    height: 480px;
+  }
+
+  .item-carta .imagem-carta{
+    max-height: 230px;
+  }
+
+  .item-carta .informacoes .titulo-carta{
+    max-width: 50%;
+    font-size: 18px;
+  }
+
+  .item-carta .informacoes .vida{
+    font-size: 14px;
+  }
+
+}
+
+
+
+
+
